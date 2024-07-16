@@ -77,4 +77,4 @@ Found in the same Git Repository
 
 ## Link to project page
 
-Found in the same Git Repository
+https://juliana0ng.github.io/LedeProject1/
