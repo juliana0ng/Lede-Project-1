@@ -1,0 +1,11 @@
+name,address,latitude,longitude,rating,ratingCount,popularityScore,popularityRank,coffeeMenuItems,coffeeAvePrice,varietyAffordabilityScore,varietyAffordabilityRank,altMilkOptions,altMilkAvePrice,altMilkScore,altMilkRank
+Starbucks,"32nd St, corner 7th Ave, Taguig, Metro Manila, Philippines",14.5537475,121.0508284,4.5,1050,0.925,1,11,₱182.73,0.6438166311,5,3,₱46.67,0.77,4
+Because Coffee,"5th Ave, Taguig, Metro Manila, Philippines",14.5514104,121.0473683,4.5,936,0.8815714286,2,19,₱164.47,0.8363257143,3,2,₱27.50,0.79,3
+Coffee Bean and Tea Leaf,"5th Avenue, 26th St, Taguig, Metro Manila, Philippines",14.5491953,121.0468101,4.4,929,0.8639047619,3,10,₱194.50,0.5988799119,8,1,₱35.00,0.52,7
+Elephant Grounds,"Lower Ground, One Bonifacio High Street, Taguig, 1630 Metro Manila, Philippines",14.5518875,121.0464089,4.4,913,0.8578095238,4,13,₱209.23,0.6228597689,6,3,₱26.67,0.97,1
+Single Origin,"C3, Bonifacio Highstreet, 7th Ave, Taguig, 1634 Metro Manila, Philippines",14.551635,121.049363,4.1,703,0.7328095238,5,9,₱237.22,0.5053278689,10,1,₱50.00,0.42,8
+Key Coffee Kissaten,"G/F MITSUKOSHI BGC, 8th Ave, Corner 36th St, Taguig, 1630 Metro Manila, Philippines",14.5578554,121.0525111,4.4,519,0.7077142857,6,28,₱167.86,0.9870212766,1,1,₱50.00,0.42,8
+Toby's Estate Coffee Roasters,"G/F, Shangri-la at the Fort, Bonifacio High Street, Taguig, Metro Manila, Philippines",14.5520935,121.0475102,4.3,435,0.6607142857,7,8,₱176.88,0.6050479556,7,2,₱60.00,0.54,6
+Seattle's Best Coffee,"G/F, B3, Bonifacio High Street, 9th Ave, Taguig, 1634 Metro Manila, Philippines",14.550862,121.0511465,4.3,415,0.6530952381,8,12,₱188.75,0.6473982971,4,2,₱25.00,0.83,2
+Caravan Black Coffee Company,"Seven NEO, 4th Ave, Taguig, 1634 Metro Manila, Philippines",14.5502201,121.046674,4.4,310,0.6280952381,9,20,₱163.50,0.8571428571,2,1,₱50.00,0.42,8
+% Arabica,"Unit 0214, 2/F, MItsukoshi Mall 7th Avenue, Grand Central Park, North, Taguig, 1630 Metro Manila, Philippines",14.5587305,121.0523908,4.5,241,0.6168095238,10,9,₱220.56,0.5313691976,9,2,₱50.00,0.58,5
